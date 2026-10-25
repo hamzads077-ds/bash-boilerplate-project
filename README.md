@@ -1,1 +1,1 @@
-I made this boilerplate for the freeCodeCamp bash lessons..
+I made this boilerplate for the freeCodeCamp bash lessons.
